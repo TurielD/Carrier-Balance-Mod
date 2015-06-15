@@ -5467,6 +5467,14 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipComponentDefs.xsd">
       <BonusType>Flat</BonusType>
       <Value>2.5</Value>
     </Stats>
+	<Stats>
+	<EffectType>Logistics</EffectType>
+		<Target>
+			<TargetType>Ship</TargetType>
+		</Target>
+		<BonusType>Flat</BonusType>
+		<Value>2</Value>
+	</Stats>
     <Prerequ>
       <Techs>
         <Option>CarrierTech</Option>
@@ -5531,6 +5539,14 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipComponentDefs.xsd">
       <BonusType>Flat</BonusType>
       <Value>2.5</Value>
     </Stats>
+	<Stats>
+	<EffectType>Logistics</EffectType>
+		<Target>
+			<TargetType>Ship</TargetType>
+		</Target>
+		<BonusType>Flat</BonusType>
+		<Value>2</Value>
+	</Stats>
     <Prerequ>
       <Techs>
         <Option>CarrierFocus1</Option>
@@ -5595,6 +5611,14 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipComponentDefs.xsd">
       <BonusType>Flat</BonusType>
       <Value>2.5</Value>
     </Stats>
+	<Stats>
+	<EffectType>Logistics</EffectType>
+		<Target>
+			<TargetType>Ship</TargetType>
+		</Target>
+		<BonusType>Flat</BonusType>
+		<Value>2</Value>
+	</Stats>
     <Prerequ>
       <Techs>
         <Option>CarrierFocus2</Option>
@@ -5659,6 +5683,14 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipComponentDefs.xsd">
       <BonusType>Flat</BonusType>
       <Value>3.5</Value>
     </Stats>
+	<Stats>
+	<EffectType>Logistics</EffectType>
+		<Target>
+			<TargetType>Ship</TargetType>
+		</Target>
+		<BonusType>Flat</BonusType>
+		<Value>3</Value>
+	</Stats>
     <Prerequ>
       <Techs>
         <Option>HighCapacityCarriers</Option>
